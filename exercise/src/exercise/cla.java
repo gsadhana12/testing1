@@ -27,7 +27,7 @@ int min=0,max=0,f=0;int  number = 0;
 			 }
 				
 			 else {
-				 System.out.println("invalid number");
+				 System.out.println("Not proper number");
 
 				 System.out.println("max"+Math.max(max, number));
 					System.out.println("min"+Math.min(min, number));
